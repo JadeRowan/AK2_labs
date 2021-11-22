@@ -13,7 +13,7 @@ List of valid keys:
 
 `./AK_Lab3 --help`
 
-`./AK_Lab3 -a - b -c`
+`./AK_Lab3 -a -b -c`
 
 `./AK_Lab3 -ab -ch`
 
